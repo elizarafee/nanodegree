@@ -1,10 +1,14 @@
-.birdpic {
-    float: left;
+/* .birdpic {
+
+} */
+
+.birdflex {
+    display: flex;
 }
 body {
     background-color: blanchedalmond;
 }
 
-.bird {
+/* .bird {
     padding: 30px;
-}
+} */
